@@ -1,0 +1,74 @@
+body {
+    background: url(cuadro.jpg) #CCC no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover ;
+    -o-background-size: cover;
+}
+h2{
+    font-size: 10em;
+    color: #fff
+}
+.centrado {
+    margin: 0;  
+    padding: 0;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform : translateX(-50%) translateY(-50%);
+}
+.boton {
+    text-align: center;
+    border: 3px solid white ;
+    padding: 10px 10px;
+    color: black;
+    text-decoration: none;
+    font-size: 40px;
+    border-radius: 40px;
+}
+h1{
+    color: #fff
+}
+img{
+    color: #fff
+}
+
+p{
+    font-size: 50px
+}
+
+.card{
+    display:flex;
+    justify-content: center center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 10px;
+    border: 1px solid rgb(250, 244, 244);
+    background: rgba(250, 244, 244, 0.8);
+    padding: 20px;
+    max-width: 400px;
+    color: white;
+    text-align: center;
+}
+}
+.marco1 {
+    padding:8px;
+    background-color: #f5f5f5;
+    width: 200px;
+    border: 1px solid #999999;
+    border-radius: 20px;
+ } 
+
+ 
+
+
+
+
+
+
+
+
+ 
